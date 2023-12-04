@@ -50,3 +50,4 @@ function updateCommentsList(sortedComments) {
     commentsList.innerHTML = "";
     sortedComments.forEach((comment) => commentsList.appendChild(comment));
 }
+
