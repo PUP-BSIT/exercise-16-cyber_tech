@@ -83,7 +83,7 @@ section {
     padding: 20px;
 }
 
-section#works li a {
+section#works li a, #rest_countries {
     display: block;
     padding: 10px 0;
     background-color: #d3d3d3;
@@ -94,7 +94,8 @@ section#works li a {
     width: 100%;
 }
 
-section#works li a:hover {
+section#works li a:hover, 
+#rest_countries:hover {
     background-color: #555;
 }
 
