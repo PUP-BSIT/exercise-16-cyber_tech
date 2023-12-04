@@ -1,5 +1,5 @@
 async function searchCountries() {
-  const searchInput = document.getElementById('searchInput');
+  const searchInput = document.getElementById('search_input');
   const resultsContainer = document.getElementById('results_container');
 
   // Clear previous results
