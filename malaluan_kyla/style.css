@@ -221,7 +221,7 @@ h1 {
 }
           
 #countryDetails,
- #sameRegion {
+ #same_region {
       margin-top: 20px;
       padding: 10px;
       background-color: #fff;
@@ -232,7 +232,7 @@ h1 {
       margin: 20px auto;
 }
           
-#sameRegion ul {
+#same_region ul {
         column-count: 3;
         column-gap: 20px;
         list-style: none;
@@ -241,7 +241,7 @@ h1 {
         text-align: left;
 }
           
-#sameRegion ul li {
+#same_region ul li {
         break-inside: avoid;
         margin-bottom: 5px;
 }
