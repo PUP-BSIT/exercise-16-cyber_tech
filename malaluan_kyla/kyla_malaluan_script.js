@@ -133,7 +133,7 @@ function searchCountry() {
   }
   
   function displayCountriesInSameRegion(countries, excludedCountry) {
-    const sameRegionDiv = document.getElementById('sameRegion');
+    const sameRegionDiv = document.getElementById('same_region');
     if (countries.length > 0) {
       let countriesHTML = '<ul>';
       countries.forEach(country => {
