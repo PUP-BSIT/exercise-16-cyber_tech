@@ -96,3 +96,16 @@ form button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
 }
+
+button {
+    padding: 10px 20px;
+    background-color: #6B5B95;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:blueviolet 
+}
